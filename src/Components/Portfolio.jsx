@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TASK MANAGER- JEST TASK",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Corporate Task Manager: A robust PHP solution for seamless task management in the corporate world. Admin and user controls, advanced features, and distinct admin functionalities ensure efficiency and a user-friendly experience. Technologies used: HTML, CSS, JavaScript, Bootstrap, PHP.",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SMART HOME CONTROL DASHBOARD",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Smart Home Control Dashboard: A centralized interface for real-time monitoring and remote management of connected devices. Enhances convenience and efficiency in the smart home ecosystem. Technologies used: HTML, CSS, JavaScript.",
+    url: "https://github.com/Deekshagj/Smart-Home-Dashboard",
   },
   {
-    title: "My Resume Site",
+    title: "MINI ARCADE",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Mini Arcade Python Project: A collection of classic games—dice, rock-paper-scissors, snake and ladder, coin flip, hangman, and speed testing. Developed with Python and tkinter for a visually engaging and interactive experience. Ideal for Python enthusiasts. Technologies used: Python.",
+    url: "https://github.com/Deekshagj/mini-arcade-project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Clone of SJBIT website registration",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "SJBIT Registration Clone: HTML web pages project replicating the seamless registration process at SJBIT. Ideal for understanding the workflow or enhancing HTML skills. Technologies used: HTML.",
+    url: "https://github.com/Deekshagj/final-html-project",
   },
 ];
 
